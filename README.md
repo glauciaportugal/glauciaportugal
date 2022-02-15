@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Gláucia Portugal!
   
 👩‍🎓 Estudante de Análise e desenvolvimento de Sistemas <br> 
-   Faço estágio na área de dados da Ci&T
+   Estagiária na área de dados da Ci&T
 
 <div>
   <a href="https://github.com/glauciaportugal">
