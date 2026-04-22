@@ -1,4 +1,4 @@
-# Olá, eu sou a Andressa! 🐈‍⬛🌿🤘
+# Olá, eu sou a Gláucia! 🐈‍⬛🌿🤘
 
 ### Analista de Dados | Cartógrafa de Negócios | Feminista & Plant-lover
 
