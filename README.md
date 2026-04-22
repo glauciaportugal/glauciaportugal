@@ -20,4 +20,4 @@ Atuo na interseção entre a técnica e o negócio, garantindo que a "verdade do
  
 
 📫 **Vamos conversar?**
-[LinkedIn]([seu-link](https://www.linkedin.com/in/glaucia-a-teles-portugal/)) | [Email](glaucia.portugal@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/glaucia-a-teles-portugal/) | [Email](glaucia.portugal@gmail.com)
