@@ -19,3 +19,4 @@ Atuo traduzindo o idioma complexo dos bancos de dados para rotas claras de decis
 
 📫 **Vamos conversar?**
 [LinkedIn](https://www.linkedin.com/in/glaucia-a-teles-portugal/) | [Email](glaucia.portugal@gmail.com)
+
