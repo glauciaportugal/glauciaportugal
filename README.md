@@ -1,4 +1,4 @@
-# Olá, eu sou a Andressa Goldner! 🐈‍⬛🌿🤘
+# Olá, eu sou a Glau Portugal! 🐈‍⬛🌿🤘
 
 ### 🧭 Analista de Dados | Guia na Selva de Dados
 **"Ter uma base de dados é como ter uma passagem aérea. Sem um bom guia, você apenas se perde no meio do caminho."**
