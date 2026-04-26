@@ -1,23 +1,21 @@
-# Olá, eu sou a Glau Portugal! 🐈‍⬛🌿🤘
+# Olá, eu sou a Andressa Goldner! 🐈‍⬛🌿🤘
 
-### 🗺️ Analista de Dados | Cartógrafa de Negócios 
-**"Dados não são apenas números; são o mapa. Se a captura falha, o navio bate nas rochas."**
+### 🧭 Analista de Dados | Guia na Selva de Dados
+**"Ter uma base de dados é como ter uma passagem aérea. Sem um bom guia, você apenas se perde no meio do caminho."**
 
-Atuo na interseção entre a técnica e o negócio, garantindo que a "verdade do dado" reflita a realidade operacional. Acredito que a qualidade da análise começa na compreensão do processo real — muito antes do primeiro `SELECT`.
+Atuo traduzindo o idioma complexo dos bancos de dados para rotas claras de decisão. Meu trabalho é guiar negócios através do ruído, garantindo que a empresa chegue ao seu destino sem cair em "armadilhas para turistas" (como métricas de vaidade ou dados corrompidos).
 
 ---
 
-### 🤘 Meu Arsenal de Navegação (Stacks)
-*As ferramentas que uso para desenhar mapas estratégicos:*
+### 🔦 Meu Equipamento de Expedição (Stacks)
+*As ferramentas que uso para desbravar o terreno:*
 
 ![SQL](https://img.shields.io/badge/SQL-121212?style=for-the-badge&logo=postgresql&logoColor=silver)
 ![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=silver)
 ![dbt](https://img.shields.io/badge/dbt-121212?style=for-the-badge&logo=dbt&logoColor=FF694B)
 ![Metabase](https://img.shields.io/badge/Metabase-121212?style=for-the-badge&logo=metabase&logoColor=509EE3)
-![Pandas](https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=2E7D32)
 
 ---
- 
 
 📫 **Vamos conversar?**
 [LinkedIn](https://www.linkedin.com/in/glaucia-a-teles-portugal/) | [Email](glaucia.portugal@gmail.com)
